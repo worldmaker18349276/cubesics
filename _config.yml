@@ -248,8 +248,6 @@ defaults:
 
 # translation
 t:
-  zh_TW: 0
-  en: 1
   locale             : ["zh-TW", "en"]
   title              : ["魔方學", "Cubesics"]
   name               : ["worldmaker", "worldmaker"]

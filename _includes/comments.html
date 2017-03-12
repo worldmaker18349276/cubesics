@@ -1,9 +1,8 @@
 {% if page.lang %}
-  {% assign lang = site.t[page.lang] %}
+  {% assign locale = site.t.locale[page.lang] %}
 {% else %}
-  {% assign lang = 0 %}
+  {% assign locale = site.locale %}
 {% endif %}
-{% assign locale = site.t.locale[lang] %}
 
 <div class="page__comments">
   {% capture comments_label %}{{ site.data.ui-text[locale].comments_label | default: "Comments" }}{% endcapture %}
