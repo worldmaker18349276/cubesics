@@ -8,3 +8,15 @@ main:
     url: /
   - title: "magicpy"
     url: /
+
+# translation
+t:
+  main:
+    - title: ["解法原理", "Theorem"]
+      url: /
+    - title: ["構造分析", "Mechanism"]
+      url: /
+    - title: ["魔方博物館", "Museum"]
+      url: /
+    - title: ["magicpy", "magicpy"]
+      url: /
