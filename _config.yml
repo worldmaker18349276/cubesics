@@ -254,9 +254,13 @@ t:
   description        : ["關於魔術方塊的理論", "The theory about twisty puzzles"]
   author:
   - name             : "黃昱維"
+    avatar           : "/assets/images/mycube.png"
     bio              : "a cuber"
     location         : "台灣"
+    email            : "worldmaker18349276@gmail.com"
   - name             : "Yu-Wei, Haung"
+    avatar           : "/assets/images/mycube.png"
     bio              : "a cuber"
     location         : "Taiwan"
+    email            : "worldmaker18349276@gmail.com"
 
