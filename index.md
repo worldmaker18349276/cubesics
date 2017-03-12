@@ -6,6 +6,8 @@ comments: false
 share: true
 related: false
 title: "魔方學 Cubesics"
+header:
+  image: /assets/images/cubesics.png
 ---
 
 > *魔術方塊不是只有公式而已*  
