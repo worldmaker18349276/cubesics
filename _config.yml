@@ -248,17 +248,23 @@ defaults:
 
 # translation
 t:
-  locale             : ["zh-TW", "en"]
-  title              : ["魔方學", "Cubesics"]
-  name               : ["worldmaker", "worldmaker"]
-  description        : ["關於魔術方塊的理論", "The theory about twisty puzzles"]
+- locale             : "zh-TW"
+  title              : "魔方學"
+  name               : "worldmaker"
+  description        : "關於魔術方塊的理論"
   author:
-  - name             : "黃昱維"
+    name             : "黃昱維"
     avatar           : "/assets/images/mycube.png"
     bio              : "a cuber"
     location         : "台灣"
     email            : "worldmaker18349276@gmail.com"
-  - name             : "Yu-Wei, Haung"
+
+- locale             : "en"
+  title              : "Cubesics"
+  name               : "worldmaker"
+  description        : "The theory about twisty puzzles"
+  author:
+    name             : "Yu-Wei, Haung"
     avatar           : "/assets/images/mycube.png"
     bio              : "a cuber"
     location         : "Taiwan"
