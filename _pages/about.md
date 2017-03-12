@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "關於"
 permalink: /about/
-excerpt: "This is a web site about the theory of twisty puzzles."
+excerpt: "這是一個有關魔術方塊理論的網站"
 ---
 
-This is a web site about the theory of twisty puzzles.
+這是一個有關魔術方塊理論的網站
