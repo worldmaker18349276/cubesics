@@ -1,10 +1,5 @@
 ---
-layout: single
-author_profile: false
-read_time: false
-comments: false
-share: true
-related: false
+author_profile: true
 title: "Main"
 permalink: /
 excerpt: "This is main page."
