@@ -244,3 +244,18 @@ defaults:
       comments: true
       share: true
       related: false
+
+
+# translation
+t:
+  zh_TW: 0
+  en: 1
+  locale             : ["zh-TW", "en"]
+  title              : ["魔方學", "Cubesics"]
+  name               : ["worldmaker", "worldmaker"]
+  description        : ["關於魔術方塊的理論", "The theory about twisty puzzles"]
+  author:
+    name             : ["黃昱維", "Yu-Wei, Haung"]
+    bio              : ["a cuber", "a cuber"]
+    location         : ["台灣", "Taiwan"]
+
