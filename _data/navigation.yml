@@ -11,12 +11,21 @@ main:
 
 # translation
 t:
-  main:
-    - title: ["解法原理", "Theorem"]
+  - main:
+    - title: "解法原理"
       url: /
-    - title: ["構造分析", "Mechanism"]
+    - title: "構造分析"
       url: /
-    - title: ["魔方博物館", "Museum"]
+    - title: "魔方博物館"
       url: /
-    - title: ["magicpy", "magicpy"]
+    - title: "magicpy"
+      url: /
+  - main:
+    - title: "Theorem"
+      url: /
+    - title: "Mechanism"
+      url: /
+    - title: "Museum"
+      url: /
+    - title: "magicpy"
       url: /
