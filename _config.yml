@@ -253,7 +253,10 @@ t:
   name               : ["worldmaker", "worldmaker"]
   description        : ["關於魔術方塊的理論", "The theory about twisty puzzles"]
   author:
-    name             : ["黃昱維", "Yu-Wei, Haung"]
-    bio              : ["a cuber", "a cuber"]
-    location         : ["台灣", "Taiwan"]
+  - name             : "黃昱維"
+    bio              : "a cuber"
+    location         : "台灣"
+  - name             : "Yu-Wei, Haung"
+    bio              : "a cuber"
+    location         : "Taiwan"
 
