@@ -5,7 +5,7 @@ read_time: false
 comments: false
 share: true
 related: false
-title: "魔方學 Cubesics"
+title: "魔方學"
 ---
 
 > 魔術方塊不是只有公式而已  
