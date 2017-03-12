@@ -1,9 +1,9 @@
 {% if page.lang %}
-  {% assign lang=site.t[page.lang] %}
+  {% assign lang = site.t[page.lang] %}
 {% else %}
-  {% assign lang=0 %}
+  {% assign lang = 0 %}
 {% endif %}
-{% assign locale=site.locale[lang] %}
+{% assign locale = site.t.locale[lang] %}
 
 <section class="page__share">
   {% if site.data.ui-text[locale].share_on_label %}
