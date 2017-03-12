@@ -7,7 +7,7 @@ share: true
 related: false
 ---
 
-![cubesics](http://worldmaker18349276.github.com/cubesics/assets/images/cubesics.png)
+魔方學 Cubesics
 > 魔術方塊不是只有公式而已  
 > 了解公式背後的意義  
 > 才算真正會玩魔術方塊
