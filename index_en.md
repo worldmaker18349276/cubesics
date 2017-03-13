@@ -1,5 +1,5 @@
 ---
-lang: 1
+lang: 1  # en
 ref: "home"
 permalink: /en/
 layout: single
