@@ -1,5 +1,5 @@
 ---
-lang: 0  # en
+lang: 0  # zh-TW
 ref: "home"
 layout: single
 author_profile: true
