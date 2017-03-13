@@ -8,6 +8,10 @@ main:
     url: /
   - title: "magicpy"
     url: /
+  - title: "語言"
+    children:
+      - title: "zh-TW"
+      - title: "en"
 
 # translation
 t:
@@ -20,6 +24,11 @@ t:
       url: /
     - title: "magicpy"
       url: /
+    - title: "語言"
+      children:
+        - title: "zh-TW"
+        - title: "en"
+
   - main:
     - title: "Theorem"
       url: /
@@ -29,3 +38,7 @@ t:
       url: /
     - title: "magicpy"
       url: /
+    - title: "language"
+      children:
+        - title: "zh-TW"
+        - title: "en"
