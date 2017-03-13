@@ -1,5 +1,5 @@
 ---
-lang: 0   # zh_TW
+lang: 0  # zh_TW
 ref: "about"
 title: "關於"
 permalink: /about/
