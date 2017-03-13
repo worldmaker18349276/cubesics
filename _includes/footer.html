@@ -4,7 +4,7 @@
 {% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
 <div class="page__footer-language">
   <ul>
-    <li><strong>{{ site.data.ui-text[locale].language | default: "Language" }}:</strong></li>
+    <li><strong textTransform="uppercase">{{ site.data.ui-text[locale].language | default: "Language" }}:</strong></li>
     {% for page in pages %}
       {% if forloop.first == false %}
         <li> / </li>
