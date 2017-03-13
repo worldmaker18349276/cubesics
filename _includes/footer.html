@@ -7,6 +7,9 @@
     <li><strong>{{ site.data.ui-text[locale].language | default: "language" }}:</strong></li>
     {% for page in pages %}
       <li><a href="{{ page.url }}" class="{{ site.t[page.lang].locale }}">{{ site.t[page.lang].locale }}</a></li>
+      {% if forloop.first == false %}
+        /
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
