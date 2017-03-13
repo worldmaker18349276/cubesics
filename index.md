@@ -1,5 +1,5 @@
 ---
-lang: 0
+lang: 0  # en
 ref: "home"
 layout: single
 author_profile: true
