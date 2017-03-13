@@ -14,7 +14,8 @@
       {% else %}
         {% assign domain = site.url | append: site.baseurl %}
       {% endif %}
-      <li><a href="{{ domain }}{{ page.url }}" class="{{ locale }}">{{ site.data.ui-text[locale].language_name }}</a></li>
+      {% assign this_locale = page.t[lang].locale %}
+      <li><a href="{{ domain }}{{ page.url }}" class="{{ this_locale }}">{{ site.data.ui-text[this_locale].language_name }}</a></li>
     {% endfor %}
   </ul>
 </div>
