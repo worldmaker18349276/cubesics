@@ -1,6 +1,7 @@
 ---
-permalink: /en/
 lang: 1
+ref: "home"
+permalink: /en/
 layout: single
 author_profile: true
 read_time: false
