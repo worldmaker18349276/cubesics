@@ -2,7 +2,7 @@
 {% assign locale = site.t[lang].locale %}
 
 {% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
-<div>
+<div class="page__footer-language">
   <ul>
     <li><strong>{{ site.data.ui-text[locale].language | default: "language" }}:</strong></li>
     {% for page in pages %}
