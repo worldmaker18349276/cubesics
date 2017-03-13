@@ -249,6 +249,7 @@ defaults:
 # translation
 t:
 - locale             : "zh-TW"
+  language           : "繁體中文（台灣）"
   title              : "魔方學"
   name               : "worldmaker"
   description        : "關於魔術方塊的理論"
@@ -260,6 +261,7 @@ t:
     email            : "worldmaker18349276@gmail.com"
 
 - locale             : "en"
+  language           : "English"
   title              : "Cubesics"
   name               : "worldmaker"
   description        : "The theory about twisty puzzles"
