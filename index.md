@@ -1,4 +1,6 @@
 ---
+lang: 0  # zh-TW
+ref: "home"
 layout: single
 author_profile: true
 read_time: false

@@ -1,6 +1,7 @@
 ---
+lang: 1  # en
+ref: "home"
 permalink: /en/
-lang: 1
 layout: single
 author_profile: true
 read_time: false
