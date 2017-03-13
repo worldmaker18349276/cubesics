@@ -9,7 +9,12 @@
       {% if forloop.first == false %}
         <li> / </li>
       {% endif %}
-      <li><a href="{{ page.url }}" class="{{ site.t[page.lang].locale }}">{{ site.t[page.lang].locale }}</a></li>
+      {% if page.url contains 'http' %}
+        {% assign domain = '' %}
+      {% else %}
+        {% assign domain = site.url | append: site.baseurl %}
+      {% endif %}
+      <li><a href="{{ domain }}{{ page.url }}" class="{{ site.t[page.lang].locale }}">{{ site.t[page.lang].language }}</a></li>
     {% endfor %}
   </ul>
 </div>
