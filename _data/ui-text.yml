@@ -3,6 +3,8 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
+  language                   : "Language"
+  language_name              : "English"
   page                       : "Page"
   pagination_previous        : "Previous"
   pagination_next            : "Next"
@@ -358,6 +360,8 @@ zh-SG:
   <<: *DEFAULT_ZH
 # Taiwan (Traditional Chinese)
 zh-TW:
+  language                   : "語言"
+  language_name              : "中文(台灣)"
   page                       : "頁面"
   pagination_previous        : "較舊"
   pagination_next            : "較新"
