@@ -4,7 +4,7 @@
 {% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
 <div class="page__footer-language">
   <ul>
-    <li><strong>{{ site.data.ui-text[locale].language | default: "language" }}:</strong></li>
+    <li><strong>{{ site.data.ui-text[locale].language | default: "Language" }}:</strong></li>
     {% for page in pages %}
       {% if forloop.first == false %}
         <li> / </li>
@@ -14,7 +14,7 @@
       {% else %}
         {% assign domain = site.url | append: site.baseurl %}
       {% endif %}
-      <li><a href="{{ domain }}{{ page.url }}" class="{{ site.t[page.lang].locale }}">{{ site.t[page.lang].language }}</a></li>
+      <li><a href="{{ domain }}{{ page.url }}" class="{{ locale }}">{{ site.data.ui-text[locale].language_name }}</a></li>
     {% endfor %}
   </ul>
 </div>
