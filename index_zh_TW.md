@@ -2,7 +2,8 @@
 lang: 0  # zh-TW
 ref: "home"
 permalink: "/zh-TW/"
-layout: single
+redirect_from:
+  - /
 author_profile: true
 read_time: false
 comments: false
