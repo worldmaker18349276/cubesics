@@ -7,7 +7,7 @@ main:
   - title: "魔方博物館"
     url: /
   - title: "magicpy"
-    url: /
+    url: https://github.com/worldmaker18349276/magicpy
 
 # translation
 t:
@@ -19,7 +19,7 @@ t:
     - title: "魔方博物館"
       url: /
     - title: "magicpy"
-      url: /
+      url: https://github.com/worldmaker18349276/magicpy
 
   - main:
     - title: "Theorem"
@@ -29,4 +29,4 @@ t:
     - title: "Museum"
       url: /
     - title: "magicpy"
-      url: /
+      url: https://github.com/worldmaker18349276/magicpy
