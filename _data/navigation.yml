@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "解法原理"
-    url: /
+    url: /zh-TW/theorem/
   - title: "構造分析"
-    url: /
+    url: /zh-TW/mechanism/
   - title: "魔方博物館"
-    url: /
+    url: /zh-TW/museum/
   - title: "magicpy"
     url: https://github.com/worldmaker18349276/magicpy
 
@@ -13,20 +13,20 @@ main:
 t:
   - main:
     - title: "解法原理"
-      url: /
+      url: /zh-TW/theorem/
     - title: "構造分析"
-      url: /
+      url: /zh-TW/mechanism/
     - title: "魔方博物館"
-      url: /
+      url: /zh-TW/museum/
     - title: "magicpy"
       url: https://github.com/worldmaker18349276/magicpy
 
   - main:
     - title: "Theorem"
-      url: /
+      url: /en/theorem/
     - title: "Mechanism"
-      url: /
+      url: /en/mechanism/
     - title: "Museum"
-      url: /
+      url: /en/museum/
     - title: "magicpy"
       url: https://github.com/worldmaker18349276/magicpy
