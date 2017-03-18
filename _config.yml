@@ -113,6 +113,7 @@ collections:
 include:
   - .htaccess
   - _pages
+  - _theorem
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
