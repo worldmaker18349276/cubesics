@@ -235,13 +235,15 @@ compress_html:
 
 # Defaults
 defaults:
-  # _pages
+  # _pages/theorem/
   - scope:
-      path: ""
+      path: "_pages/theorem/"
       type: pages
     values:
       layout: single
-      author_profile: true
+      sidebar:
+        nav: "theorem"
+      author_profile: false
       read_time: false
       comments: true
       share: true
