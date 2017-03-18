@@ -249,6 +249,34 @@ defaults:
       share: true
       related: false
 
+  # _pages/mechanism/
+  - scope:
+      path: "_pages/mechanism/"
+      type: pages
+    values:
+      layout: single
+      # sidebar:
+      #   nav: "mechanism"
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: false
+
+  # _pages/museum/
+  - scope:
+      path: "_pages/museum/"
+      type: pages
+    values:
+      layout: single
+      # sidebar:
+      #   nav: "museum"
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: false
+
 
 # translation
 t:
