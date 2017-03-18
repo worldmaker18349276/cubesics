@@ -112,6 +112,8 @@ include:
   - .htaccess
   - _pages
   - _theorem
+  - _mechanism
+  - _museum
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
