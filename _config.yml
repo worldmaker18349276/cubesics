@@ -255,7 +255,7 @@ defaults:
     values:
       layout: single
       sidebar:
-        nav: "theorem"
+        nav: "contents"
       author_profile: false
       read_time: false
       comments: true
@@ -267,9 +267,9 @@ defaults:
       type: pages
     values:
       layout: single
-      # sidebar:
-      #   nav: "mechanism"
-      author_profile: true
+      sidebar:
+        nav: "contents"
+      author_profile: false
       read_time: false
       comments: true
       share: true
@@ -280,9 +280,9 @@ defaults:
       type: pages
     values:
       layout: single
-      # sidebar:
-      #   nav: "museum"
-      author_profile: true
+      sidebar:
+        nav: "contents"
+      author_profile: false
       read_time: false
       comments: true
       share: true
