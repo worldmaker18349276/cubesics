@@ -235,9 +235,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _pages/
   - scope:
-      path: "_pages"
       type: pages
     values:
       layout: single
@@ -247,10 +245,8 @@ defaults:
       share: true
       related: false
 
-  # _pages/theorem/
   - scope:
-      path: "_pages/theorem"
-      type: pages
+      type: theorem
     values:
       layout: single
       sidebar:
