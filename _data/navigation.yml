@@ -10,20 +10,22 @@ main:
     url: https://github.com/worldmaker18349276/magicpy
 
 theorem:
-  - title: "0. 名詞解說"
-    url: /zh-TW/definition/
-  - title: "1. 分離結合"
-    url: /zh-TW/building/
-  - title: "2. 借位公式法"
-    url: /zh-TW/settingup/
-  - title: "3. 部份回復法"
-    url: /zh-TW/restoration/
-  - title: "4. 間接變換"
-    url: /zh-TW/indirect/
-  - title: "5. 抵銷合成"
-    url: /zh-TW/composition/
-  - title: "6. 建構公式"
-    url: /zh-TW/construction/
+  - title: "解法原理"
+    children:
+      - title: "0. 名詞解說"
+        url: /zh-TW/definition/
+      - title: "1. 分離結合"
+        url: /zh-TW/building/
+      - title: "2. 借位公式法"
+        url: /zh-TW/settingup/
+      - title: "3. 部份回復法"
+        url: /zh-TW/restoration/
+      - title: "4. 間接變換"
+        url: /zh-TW/indirect/
+      - title: "5. 抵銷合成"
+        url: /zh-TW/composition/
+      - title: "6. 建構公式"
+        url: /zh-TW/construction/
 
 # translation
 t:
