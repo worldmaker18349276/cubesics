@@ -11,16 +11,16 @@ title                    : "魔方學"
 title_separator          : "-"
 name                     : "worldmaker"
 description              : "關於魔術方塊的理論"
-url                      : "https://worldmaker18349276.github.io"
+url                      : "https://cubesics-dev.github.io"
 baseurl                  : "/cubesics"
-repository               : "worldmaker18349276/cubesics"
+repository               : "cubesics-dev/cubesics"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus"
+  provider               : false
   disqus:
-    shortname            : "cubesics"
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -70,9 +70,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : false
   google:
-    tracking_id          : "UA-93533141-1"
+    tracking_id          :
 
 
 # Site Author
