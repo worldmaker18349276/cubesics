@@ -112,6 +112,8 @@ include:
   - .htaccess
   - _pages
   - _theorem
+  - _mechanism
+  - _museum
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -260,9 +262,8 @@ defaults:
       share: true
       related: false
 
-  # _pages/mechanism/
   - scope:
-      path: "_pages/mechanism"
+      path: "_mechanism"
       type: pages
     values:
       layout: single
@@ -274,9 +275,8 @@ defaults:
       share: true
       related: false
 
-  # _pages/museum/
   - scope:
-      path: "_pages/museum"
+      path: "_museum"
       type: pages
     values:
       layout: single
