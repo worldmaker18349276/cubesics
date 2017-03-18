@@ -237,7 +237,7 @@ compress_html:
 defaults:
   # _pages/theorem/
   - scope:
-      path: "/_pages/theorem"
+      path: "theorem"
       type: pages
     values:
       layout: single
@@ -251,7 +251,7 @@ defaults:
 
   # _pages/mechanism/
   - scope:
-      path: "/_pages/mechanism/"
+      path: "mechanism"
       type: pages
     values:
       layout: single
@@ -265,7 +265,7 @@ defaults:
 
   # _pages/museum/
   - scope:
-      path: "/_pages/museum/"
+      path: "museum"
       type: pages
     values:
       layout: single
