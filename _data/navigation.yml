@@ -21,23 +21,26 @@ t:
       - title: "magicpy"
         url: https://github.com/worldmaker18349276/magicpy
 
-    theorem:
+    contents:
       - title: "解法原理"
         children:
           - title: "0. 名詞解說"
-            url: /zh-TW/definition/
+            url: /zh-TW/theorem/definition/
           - title: "1. 分離結合"
-            url: /zh-TW/building/
+            url: /zh-TW/theorem/building/
           - title: "2. 借位公式法"
-            url: /zh-TW/settingup/
+            url: /zh-TW/theorem/settingup/
           - title: "3. 部份回復法"
-            url: /zh-TW/restoration/
+            url: /zh-TW/theorem/restoration/
           - title: "4. 間接變換"
-            url: /zh-TW/indirect/
+            url: /zh-TW/theorem/indirect/
           - title: "5. 抵銷合成"
-            url: /zh-TW/composition/
+            url: /zh-TW/theorem/composition/
           - title: "6. 建構公式"
-            url: /zh-TW/construction/
+            url: /zh-TW/theorem/construction/
+
+      - title: "構造分析"
+      - title: "魔方博物館"
 
   - main:
       - title: "Theorem"
@@ -49,7 +52,7 @@ t:
       - title: "magicpy"
         url: https://github.com/worldmaker18349276/magicpy
 
-    theorem:
+    contents:
       - title: "Theorem"
         children:
           - title: "0. Definition"
@@ -66,3 +69,6 @@ t:
             url: /en/composition/
           - title: "6. Construction of Algebra"
             url: /en/construction/
+
+      - title: "Mechanism"
+      - title: "Museum"
