@@ -12,21 +12,53 @@ main:
 # translation
 t:
   - main:
-    - title: "解法原理"
-      url: /zh-TW/theorem/
-    - title: "構造分析"
-      url: /zh-TW/mechanism/
-    - title: "魔方博物館"
-      url: /zh-TW/museum/
-    - title: "magicpy"
-      url: https://github.com/worldmaker18349276/magicpy
+      - title: "解法原理"
+        url: /zh-TW/theorem/
+      - title: "構造分析"
+        url: /zh-TW/mechanism/
+      - title: "魔方博物館"
+        url: /zh-TW/museum/
+      - title: "magicpy"
+        url: https://github.com/worldmaker18349276/magicpy
+
+    theorem:
+      - title: "0. 名詞解說"
+        url: /zh-TW/definition/
+      - title: "1. 分離結合"
+        url: /zh-TW/building/
+      - title: "2. 借位公式法"
+        url: /zh-TW/settingup/
+      - title: "3. 部份回復法"
+        url: /zh-TW/restoration/
+      - title: "4. 間接變換"
+        url: /zh-TW/indirect/
+      - title: "5. 抵銷合成"
+        url: /zh-TW/composition/
+      - title: "6. 建構公式"
+        url: /zh-TW/construction/
 
   - main:
-    - title: "Theorem"
-      url: /en/theorem/
-    - title: "Mechanism"
-      url: /en/mechanism/
-    - title: "Museum"
-      url: /en/museum/
-    - title: "magicpy"
-      url: https://github.com/worldmaker18349276/magicpy
+      - title: "Theorem"
+        url: /en/theorem/
+      - title: "Mechanism"
+        url: /en/mechanism/
+      - title: "Museum"
+        url: /en/museum/
+      - title: "magicpy"
+        url: https://github.com/worldmaker18349276/magicpy
+
+    theorem:
+      - title: "0. Definition"
+        url: /en/definition/
+      - title: "1. Building Process"
+        url: /en/building/
+      - title: "2. Setting Up"
+        url: /en/settingup/
+      - title: "3. Partial Restoration"
+        url: /en/restoration/
+      - title: "4. Indirect Operation"
+        url: /en/indirect/
+      - title: "5. Composition of Algebra"
+        url: /en/composition/
+      - title: "6. Construction of Algebra"
+        url: /en/construction/
