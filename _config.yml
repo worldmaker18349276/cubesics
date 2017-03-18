@@ -108,8 +108,6 @@ author:
 
 
 # Reading Files
-collections:
-  - theorem
 include:
   - .htaccess
   - _pages
@@ -251,7 +249,7 @@ defaults:
 
   - scope:
       path: "_theorem"
-      type: theorem
+      type: pages
     values:
       layout: single
       sidebar:
