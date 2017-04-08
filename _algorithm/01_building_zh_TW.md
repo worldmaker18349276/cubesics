@@ -16,7 +16,7 @@ excerpt:
 
 ## 性質結構
 
-![virtual block](/cubesics/assets/images/virtual_block.jpg){: .align-right}
+![virtual block](/cubesics/assets/images/virtual_block.jpg){: .align-right; width: 50%;}
 **性質結構**的命名與一般我們所稱的不太一樣，性質結構是依其性質而定的，例如鈄轉魔方中位於角的區塊，其性質結構為面塊（但為了避免混淆，我們還是稱其為角塊，頂多說它與另一種面轉魔方的面塊同構）。所謂的性質是由**旋轉面與結構間的關係**所構成：
 - **面**：其受一旋轉面改變其方向（其位於此旋轉面的中心），但不改變位置。
 - **邊**：受兩（對稱）旋轉面改變其位置（其位於兩旋轉面交集處）。
