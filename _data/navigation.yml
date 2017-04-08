@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "解法原理"
-    url: /zh-TW/theorem/
+    url: /zh-TW/algorithm/
   - title: "構造分析"
     url: /zh-TW/mechanism/
   - title: "魔方博物館"
@@ -13,7 +13,7 @@ main:
 t:
   - main:
       - title: "解法原理"
-        url: /zh-TW/theorem/
+        url: /zh-TW/algorithm/
       - title: "構造分析"
         url: /zh-TW/mechanism/
       - title: "魔方博物館"
@@ -25,26 +25,26 @@ t:
       - title: "解法原理"
         children:
           - title: "0. 名詞解說"
-            url: /zh-TW/theorem/definition/
+            url: /zh-TW/algorithm/definition/
           - title: "1. 分離結合"
-            url: /zh-TW/theorem/building/
+            url: /zh-TW/algorithm/building/
           - title: "2. 借位公式法"
-            url: /zh-TW/theorem/settingup/
+            url: /zh-TW/algorithm/settingup/
           - title: "3. 部份回復法"
-            url: /zh-TW/theorem/restoration/
+            url: /zh-TW/algorithm/restoration/
           - title: "4. 間接變換"
-            url: /zh-TW/theorem/indirect/
+            url: /zh-TW/algorithm/indirect/
           - title: "5. 抵銷合成"
-            url: /zh-TW/theorem/composition/
+            url: /zh-TW/algorithm/composition/
           - title: "6. 建構公式"
-            url: /zh-TW/theorem/construction/
+            url: /zh-TW/algorithm/construction/
 
       - title: "構造分析"
       - title: "魔方博物館"
 
   - main:
-      - title: "Theorem"
-        url: /en/theorem/
+      - title: "Algorithm"
+        url: /en/algorithm/
       - title: "Mechanism"
         url: /en/mechanism/
       - title: "Museum"
@@ -53,22 +53,22 @@ t:
         url: https://github.com/worldmaker18349276/magicpy
 
     contents:
-      - title: "Theorem"
+      - title: "Algorithm"
         children:
           - title: "0. Definition"
-            url: /en/definition/
+            url: /en/algorithm/definition/
           - title: "1. Building Process"
-            url: /en/building/
+            url: /en/algorithm/building/
           - title: "2. Setting Up"
-            url: /en/settingup/
+            url: /en/algorithm/settingup/
           - title: "3. Partial Restoration"
-            url: /en/restoration/
+            url: /en/algorithm/restoration/
           - title: "4. Indirect Operation"
-            url: /en/indirect/
+            url: /en/algorithm/indirect/
           - title: "5. Composition of Algebra"
-            url: /en/composition/
+            url: /en/algorithm/composition/
           - title: "6. Construction of Algebra"
-            url: /en/construction/
+            url: /en/algorithm/construction/
 
       - title: "Mechanism"
       - title: "Museum"

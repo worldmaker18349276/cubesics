@@ -1,7 +1,7 @@
 ---
 lang: 0  # zh-TW
-ref: "theorem"
-permalink: /zh-TW/theorem/
+ref: "algorithm"
+permalink: /zh-TW/algorithm/
 title: "解法原理"
 excerpt: "魔術方塊解法的原理"
 ---

@@ -1,8 +1,8 @@
 ---
 lang: 1  # en
-ref: "theorem"
-permalink: /en/theorem/
-title: "theorem"
+ref: "algorithm"
+permalink: /en/algorithm/
+title: "algorithm"
 excerpt: "the theorem of algorithm for twisty puzzle"
 ---
 

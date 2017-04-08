@@ -111,7 +111,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - _theorem
+  - _algorithm
   - _mechanism
   - _museum
 exclude:
@@ -250,7 +250,7 @@ defaults:
       related: false
 
   - scope:
-      path: "_theorem"
+      path: "_algorithm"
       type: pages
     values:
       layout: single
