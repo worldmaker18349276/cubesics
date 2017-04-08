@@ -1,7 +1,7 @@
 ---
 lang: 0  # zh-TW
 ref: "building"
-permalink: /zh-TW/theorem/building/
+permalink: /zh-TW/algorithm/building/
 title: "分離結合"
 excerpt: 
 ---
